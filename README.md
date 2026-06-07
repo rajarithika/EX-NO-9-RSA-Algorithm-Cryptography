@@ -36,7 +36,7 @@ Step 5: **Security Foundation
 The security of RSA relies on the difficulty of factoring large numbers; thus, choosing sufficiently large prime numbers for \( p \) and \( q \) is crucial for security.
 
 ## NAME: RAJA RITHIKA
-## REG NO: 230500029
+## REG NO: 2305001029
 
 ## Program:
 
